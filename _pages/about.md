@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Hello and welcome! I'm a PhD student in the <a href='https://geog.umd.edu/'>Department of Geographical Sciences</a> at the University of Maryland, College Park, 
+Hello and welcome! I'm a PhD student in the <a href='https://geog.umd.edu/'>Department of Geographical Sciences</a> at the <a href='https://umd.edu/'>University of Maryland, College Park</a>, 
 working with <a href='https://geog.umd.edu/facultyprofile/wang/dongdong'>Dr. Dongdong Wang</a>. My research focuses extensively on leveraging deep learning and advanced 
 analytical methods to interpret Earth system dynamics. 
 
