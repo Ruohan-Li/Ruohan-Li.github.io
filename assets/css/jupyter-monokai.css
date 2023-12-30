@@ -154,7 +154,7 @@ div.running_list_info.toolbar_info {
 }
 
 .fa-folder:before {
-    color: #ae81ff;
+    color: #00c;
 }
 
 .fa-arrow-up:before {
@@ -178,7 +178,7 @@ span#sort-name.btn.btn-xs.btn-default.sort-action:hover .fa {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     content: "\f07b";
-    color: #ae81ff;
+    color: #00c;
 }
 
 .notebook_icon:before {
@@ -310,7 +310,7 @@ body>#header {
 }
 
 .item_icon {
-    color: #ae81ff;
+    color: #00c;
     font-size: 13pt;
     vertical-align: middle;
 }
@@ -684,7 +684,7 @@ div#notification_notebook.notification_widget.btn.btn-xs.navbar-btn {
 }
 
 .notification_widget {
-    color: #ae81ff;
+    color: #00c;
     z-index: -500;
     font-size: 9pt;
     background: transparent;
@@ -727,12 +727,12 @@ div.notification_widget.info,
 }
 
 .item_icon {
-    color: #ae81ff;
+    color: #00c;
 }
 
 .item_buttons .kernel-name {
     font-size: 13pt;
-    color: #ae81ff;
+    color: #00c;
 }
 
 .running_notebook_icon:before {
@@ -2555,7 +2555,7 @@ div.cell.text_cell a.anchor-link:link:hover {
 }
 
 #clusters>a:hover {
-    color: #ae81ff;
+    color: #00c;
     text-decoration: underline;
     cursor: auto;
 }
@@ -3224,7 +3224,7 @@ div#short-key-bindings-intro.well,
 }
 
 .terminal .xterm-color-4 {
-    color: #ae81ff;
+    color: #00c;
 }
 
 .terminal .xterm-color-5 {
@@ -3371,13 +3371,13 @@ span.ansigreen,
 span.ansipurple,
 .ansi-purple-fg,
 .ansi-purple-intense-fg {
-    color: #ae81ff;
+    color: #00c;
 }
 
 span.ansicyan,
 .ansi-cyan-fg,
 .ansi-cyan-intense-fg {
-    color: #ae81ff;
+    color: #00c;
 }
 
 span.ansiyellow,
@@ -3507,11 +3507,11 @@ div.CodeMirror-linenumber,
 }
 
 .cm-s-ipython span.cm-atom {
-    color: #ae81ff;
+    color: #00c;
 }
 
 .cm-s-ipython span.cm-number {
-    color: #ae81ff;
+    color: #00c;
 }
 
 .cm-s-ipython span.cm-property {
@@ -3565,7 +3565,7 @@ div.CodeMirror-linenumber,
 }
 
 .cm-s-ipython span.cm-tag {
-    color: #ae81ff;
+    color: #00c;
 }
 
 .cm-s-ipython span.cm-link {
@@ -3573,7 +3573,7 @@ div.CodeMirror-linenumber,
 }
 
 .cm-s-ipython span.cm-storage {
-    color: #ae81ff;
+    color: #00c;
 }
 
 .cm-s-ipython span.cm-entity {
@@ -3657,11 +3657,11 @@ div.cell.text_cell .cm-s-default span.cm-variable-3 {
 }
 
 .cm-s-default .cm-number {
-    color: #ae81ff;
+    color: #00c;
 }
 
 .cm-s-default .cm-error {
-    color: #ae81ff;
+    color: #00c;
 }
 
 .cm-s-default .cm-link {
@@ -3669,7 +3669,7 @@ div.cell.text_cell .cm-s-default span.cm-variable-3 {
 }
 
 .cm-s-default .cm-atom {
-    color: #ae81ff;
+    color: #00c;
 }
 
 .cm-s-default .cm-def {
