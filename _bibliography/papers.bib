@@ -1,0 +1,136 @@
+---
+---
+
+Buttons:
+- `abbr`: Adds an abbreviation to the left of the entry. You can add links to these by creating a venue.yaml-file in the _data folder and adding entries that match.
+- `abstract`: Adds an "Abs" button that expands a hidden text field when clicked to show the abstract text
+- `arxiv`: Adds a link to the Arxiv website (Note: only add the arxiv identifier here - the link is generated automatically)
+- `bibtex_show`: Adds a "Bib" button that expands a hidden text field with the full bibliography entry
+- `html`: Inserts an "HTML" button redirecting to the user-specified link
+- `pdf`: Adds a "PDF" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `supp`: Adds a "Supp" button to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `blog`: Adds a "Blog" button redirecting to the specified link
+- `code`: Adds a "Code" button redirecting to the specified link
+- `poster`: Adds a "Poster" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `video`: Adds a "Video" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/video/ directory)
+- `slides`: Adds a "Slides" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `website`: Adds a "Website" button redirecting to the specified link
+- `altmetric`: Adds an [Altmetric](https://www.altmetric.com/) badge (Note: if DOI is provided just use `true`, otherwise only add the altmetric identifier here - the link is generated automatically)
+- `dimensions`: Adds a [Dimensions](https://www.dimensions.ai/) badge (Note: if DOI or PMID is provided just use `true`, otherwise only add the Dimensions' identifier here - the link is generated automatically)
+
+@article{farrell2020mapping,
+  title={Mapping sea ice surface topography in high fidelity with ICESat-2},
+  author={Farrell, SL and Duncan, Kyle and Buckley, EM and Richter-Menge, Jacqueline and Li, Ruohan},
+  journal={Geophysical Research Letters},
+  volume={47},
+  number={21},
+  pages={e2020GL090708},
+  year={2020},
+  publisher={Wiley Online Library},
+  pdf = {ice.pdf},
+  html = {https://doi.org/10.1029/2020GL090708},
+  preview = {ice.png},
+  bibtex_show = true,
+  selected = false
+}
+
+@article{wang2021synergic,
+  title={A synergic study on estimating surface downward shortwave radiation from satellite data},
+  author={Wang, Dongdong and Liang, Shunlin and Li, Ruohan and Jia, Aolin},
+  journal={Remote Sensing of Environment},
+  volume={264},
+  pages={112639},
+  year={2021},
+  publisher={Elsevier},
+  pdf = {synergic.pdf},
+  html = {https://doi.org/10.1016/j.rse.2021.112639},
+  preview = {synergic.png},
+  bibtex_show = true,
+  selected = false
+}
+
+@article{li2021comprehensive,
+  title={Comprehensive assessment of five global daily downward shortwave radiation satellite products},
+  author={Li, Ruohan and Wang, Dongdong and Liang, Shunlin},
+  journal={Science of Remote Sensing},
+  volume={4},
+  pages={100028},
+  year={2021},
+  publisher={Elsevier},
+  html = {https://doi.org/10.1016/j.srs.2021.100028},
+  pdf = {comprehensive.pdf},
+  preview = {comprehensive.png},
+  bibtex_show = true,
+  selected = true
+}
+
+@article{li2022estimating,
+  title={Estimating global downward shortwave radiation from VIIRS data using a transfer-learning neural network},
+  author={Li, Ruohan and Wang, Dongdong and Liang, Shunlin and Jia, Aolin and Wang, Zhihao},
+  journal={Remote Sensing of Environment},
+  volume={274},
+  pages={112999},
+  year={2022},
+  publisher={Elsevier},
+  html = {https://doi.org/10.1016/j.rse.2022.112999},
+  pdf = {tl.pdf},
+  preview = {tl.png},
+  bibitex_show = true,
+  selected = true,
+}
+
+@article{li2022geonex,
+  title={A GeoNEX-based high spatiotemporal resolution product of land surface downward shortwave radiation and photosynthetically active radiation},
+  author={Li, Ruohan and Wang, Dongdong and Wang, Weile and Nemani, Ramakrishna},
+  journal={Earth System Science Data Discussions},
+  volume={2022},
+  pages={1--17},
+  year={2022},
+  publisher={G{\"o}ttingen, Germany},
+  html = {https://doi.org/10.5194/essd-15-1419-2023},
+  pdf = {essd.pdf},
+  preview = {essd.png},
+  bibitex_show = true,
+  selected = true
+}
+
+@article{li2023comparison,
+  title={Comparison between deep learning architectures for the 1 km, 10/15-min estimation of downward shortwave radiation from AHI and ABI},
+  author={Li, Ruohan and Wang, Dongdong and Liang, Shunlin},
+  journal={Remote Sensing of Environment},
+  volume={295},
+  pages={113697},
+  year={2023},
+  publisher={Elsevier},
+  pdf = {compare.pdf},
+  html = {https://doi.org/10.1016/j.rse.2023.113697},
+  preview = {compare.png},
+  bibitex_show = true,
+  selected = true
+}
+
+@article{li2025transformer,
+  title={Transformer approach to nowcasting solar energy using geostationary satellite data},
+  author={Li, Ruohan and Wang, Dongdong and Wang, Zhihao and Liang, Shunlin and Li, Zhanqing and Xie, Yiqun and He, Jiena},
+  journal={Applied Energy},
+  volume={377},
+  pages={124387},
+  year={2024},
+  publisher={Elsevier},
+  pdf = {transformer.pdf},
+  preview = {transformer.jpg},
+  bibitex_show = true,
+  selected = true
+}
+
+@inproceedings{lisolarcube,
+  title={SolarCube: An Integrative Benchmark Dataset Harnessing Satellite and In-situ Observations for Large-scale Solar Energy Forecasting},
+  author={Li, Ruohan and Xie, Yiqun and Jia, Xiaowei and Wang, Dongdong and Li, Yanhua and Zhang, Yingxue and Wang, Zhihao and Li, Zhili},
+  booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+  year={2024},
+  pdf = {SolarCube.pdf},
+  preview = {solarcube.png},
+  bibitex_show = true,
+  selected = true
+}
+
