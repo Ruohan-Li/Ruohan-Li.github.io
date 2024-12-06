@@ -25,7 +25,7 @@ working with <a href='https://www.terpconnect.umd.edu/~xie/'>Dr. Yiqun Xie</a> a
 analytical methods to interpret Earth system dynamics. 
 
 In my PhD, I'm working on projects combining satellite data, real-world measurements, and radiative transfer 
-models (RTM). I use machine learning to improve the estimation and forecasting accuracy of surface Downward 
+models (RTM), supervised by Dr. Dongdong Wang. I use machine learning to improve the estimation and forecasting accuracy of surface Downward 
 Shortwave Radiation (DSR).  Now, I'm looking into machine learning that integrates physical laws to improve 
 how we understand environmental changes. 
 
