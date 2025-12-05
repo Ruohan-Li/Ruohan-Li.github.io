@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 
 Hello and welcome! I'm a postdoctoral research associate in the <a href='https://geog.umd.edu/'>Department of Geographical Sciences</a> at the <a href='https://umd.edu/'>University of Maryland, College Park</a>, 
-working with <a href='https://www.terpconnect.umd.edu/~xie/'>Dr. Yiqun Xie</a> and <a href='https://geog.umd.edu/facultyprofile/loboda/tatiana-v'>Dr. Tatiana Loboda</a>. My research focuses extensively on leveraging deep learning and advanced 
+working with <a href='https://www.terpconnect.umd.edu/~xie/'>Dr. Yiqun Xie</a>. My research focuses extensively on leveraging deep learning and advanced 
 analytical methods to interpret Earth system dynamics. 
 
 In my PhD, I'm working on projects combining satellite data, real-world measurements, and radiative transfer 
