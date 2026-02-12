@@ -21,8 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 
 Hello and welcome! I'm a postdoctoral research associate in the <a href='https://geog.umd.edu/'>Department of Geographical Sciences</a> at the <a href='https://umd.edu/'>University of Maryland, College Park</a>, 
-working with <a href='https://www.terpconnect.umd.edu/~xie/'>Dr. Yiqun Xie</a>. My research focuses extensively on leveraging deep learning and advanced 
-analytical methods to interpret Earth system dynamics. 
+working with <a href='https://www.terpconnect.umd.edu/~xie/'>Dr. Yiqun Xie</a>, and a member of <a href='https://gel.umd.edu/'>Global Ecology Lab</a>. My research integrates remote sensing, in situ observations, and process-based models to enable robust, scalable Earth-system monitoring and forecasting and develops user-inspired AI methods for mining spatiotemporal data to address geospatial challenges. My work spans land–atmosphere interactions and surface energy and radiative fluxes, high-resolution cloud and radiance nowcasting, and modeling and forecasting of terrestrial ecosystem dynamics.
 
 In my PhD, I'm working on projects combining satellite data, real-world measurements, and radiative transfer 
 models (RTM), supervised by Dr. Dongdong Wang. I use machine learning to improve the estimation and forecasting accuracy of surface Downward 
